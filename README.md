@@ -1,2 +1,2 @@
-# aframe-indic-font
-indic fonts for aframe
+# a-frame-indic-script-fonts
+indic script fonts for "a-frame"
