@@ -6,4 +6,4 @@ indic script fonts for projects made with "a-frame"
 ### notes:
 prepared by 'AHIYANTRA' (@ahiyantra)
 
-[<return to the main page>](https://ahiyantra.github.io/)
+> [return to the main page](https://ahiyantra.github.io/)
