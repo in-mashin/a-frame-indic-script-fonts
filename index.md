@@ -6,7 +6,7 @@
 
 ### notes:
 
-An archive prepared by 'AHIYANTRA' (@ahiyantra).
+An archive prepared by S.S.W.(@ahiyantra) & maintained by JéJé(@draggador).
 
 > [return to the main page](https://ahiyantra.github.io)
 > |
