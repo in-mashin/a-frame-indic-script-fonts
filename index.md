@@ -10,4 +10,4 @@ An archive prepared by 'AHIYANTRA' (@ahiyantra).
 
 > [return to the main page](https://ahiyantra.github.io)
 > |
-> [visit this project on github](https://github.com/ahiyantra/a-frame-indic-script-fonts)
+> [visit this project on github](https://github.com/in-mashin/a-frame-indic-script-fonts)
