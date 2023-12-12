@@ -6,4 +6,4 @@
 
 ### notes:
 
-An archive prepared by 'AHIYANTRA' (@ahiyantra).
+An archive prepared by S.S.W.(@ahiyantra) & maintained by JéJé(@draggador).
